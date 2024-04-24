@@ -1,0 +1,124 @@
+CLAUDE QUERIES FOR QUIZES
+
+
+
+
+Query 1 : Dear Claude,
+
+          I have a task for you but i want to say i highly appreciate your help and want to say, Thank you !
+
+
+
+Query 2 : As a renowed quiz expert , your task is to create five quick and interesting quick quizes based on building stock market fundamentals for your audience to solve.The quizes shold be easy enough to to engage and entartain the participants. Each quiz should have three options and only one correct answer along with give explaination of the quiz answers such that any layman can also understand who is new to stock market.
+	Please follow the table format provided below to present your quizes:
+
+	Title | Hook | Body | Option 1 | Option 2 | Option 3 | Answer | Explanation
+
+	For example :
+
+	Title: Test Stock Market IQ
+
+	Hook: Dive into the world of stock market fundamentals!
+
+	Body: An IPO is a significant event in the financial world, but do you know what it stands for?
+	
+	Option 1: Initial Public Offering
+	Option 2: International Portfolio Organization
+	Option 3: Insider Purchasing Option
+
+	Answer: A) Initial Public Offering
+
+	Explanation : An IPO stands for Initial Public Offering. It's the first time a private company offers its shares to the public for purchase on a stock exchange. By going public through an IPO, the company raises capital and its shares become tradable on the open market.
+	
+	Create it in tabular format by keeping the questions precise
+
+
+
+Query 3 : [Provide Varsity Context]
+		 
+	  Take reference of this text and create similar quizes as done above in tabular format(Set of 10). Make Unique and Independent quizes from it by not mentioning passage as reference.
+
+
+Query 5 : Create set of 10 more unique quizes by not repeating previous quizes by keeping the provided context in mind(Documented Content which i have provided above).
+	  [Keep on repeating this query till you find quizes to be repeatative]	
+	   
+
+
+
+
+
+
+CHATGPT QUERIES FOR CONTENT
+
+
+
+
+
+QUERY : [PROVIDE THE QUIZ SPREADHSHEET AS A SET 10 QUIZES]
+
+		
+	"I'm planning to create YouTube shorts focused on stock content. I already provided you the quiz with explanation. You just provide me the content based on the above quiz. Remember-> 
+
+	Give 5 content based on 2 each quiz and make the content interesting and interactive.
+
+	Make it a better one. I want the best content. Try to increase the length of the content with more detailing and with better explanation. Because there will be a voice speech also and I want my video length should be minimum 40 seconds according to that give the content.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Points To note :
+
+1. Create Google sheets of quizes provided by Chatget(Avoid long ques. quizes and remove useless quizes)  
+2. Use Canva To Create Video (Learn The Process from Youtube Video)
+3. Add Music in shorts [Find Free Music From Library and Upload it canvas
+4. Bulk Create - Follow the Video [First Purchase Canva Pro Subscription For Removing WaterMarks and Bulk Video Creation]
+   Open Apps -> Search Bulk Create -> Click on + (Ensure Canva Pro Subscription) -> Sign up -> Enter data Manually -> Delete the Existing Data -> Copy & Paste Data from Google sheets(30 Rows) -> Click on Your video data points and connect it to the table data(Right click on Title -> CLick Connect Data -> Title) -> Continue -> Generate
+   
+   Note : Do some chnages after every 30 shorts (Background,Music and others,if necessary) 
+5. Download the Shorts (Download Pages as Seperate Files)
+6. Creating a Faceless Youtube Channel(Change Profile Image)
+7. Uploading Shorts using AI
+   
+   Note : 3 Crucial Things You need to Take Care of - Title,Description,Tags
+   (Use ChatGPT , Put Query as - "I need your help in creating a captivating Title,Description and Tags for a Youtube Short.I want you to keep the Youtube SEO in check
+    while Writing them.Title's focus should be getting people to cilck on the short while description and tags sholg be optimized for the SEO Purpose. Make sure to 
+    seperate each tag with a comma.Here's a general idea of what the short is about:An interesting quiz to build stock market fundamentals.")
+
+   Use the Title,Descriptionand tags to Upload the short on Youtube - Follow the video Once
+
+8. Make Copywright claim for this short
+
+
+Plan :
+
+1. Create Good 30 ques. for a month using Varisty as a reference(Maintain the Sequence as in Varsity)
+2. Subscribe the Canva Pro for 1 Day by Paying -> Then all 30 Videos By Doing Modifications
+3. Upload 1 shorts Daily on Youtube 
+4. In this Process Create Google Sheet and Blueprint of Video for next series(30) of videos
+
+
+Varsity :
+
+
+
+
+
+
+Youtube :
+
+1. Channel Name - Increasing Stock Market IQ
+2. Before Upload shorts -- Put a community Post on whats your aim in on the channel then proceed to upload
+3. Check for copywright issues		
+
+
+
